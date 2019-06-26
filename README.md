@@ -1,7 +1,7 @@
 ### About Building Dragons
 
-Find out more about the project and a developer's blog on the
-[project page](https://buildingdragons.dev/).
+Find out more about the project on the
+[Wiki](https://github.com/buildingdragons/dragon/wiki).
 
 
 ### Tools and Libs
@@ -11,4 +11,4 @@ Find out more about the project and a developer's blog on the
 * Scala 2.13
 
 More information and considerations regarding the tool stack can you find
-[here](https://buildingdragons.dev/tools.md).
+[here](https://github.com/buildingdragons/dragon/wiki/ToolsLibs).
